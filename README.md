@@ -1,10 +1,8 @@
 ### 🥷
 
-![Metrics](/github-metrics.svg)
-
-![Metrics](/metrics.plugin.notable.indepth.svg)
-
 ![Metrics](/metrics.plugin.stars.svg)
+<div style="display: flex">![Metrics](/github-metrics.svg) </div>
+
 
 <!--
 
