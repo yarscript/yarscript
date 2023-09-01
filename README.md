@@ -1,7 +1,10 @@
 ### 🥷
 
-![Metrics](/metrics.plugin.stars.svg)
-<div style="display: flex">![Metrics](/github-metrics.svg) </div>
+
+<div style="display: flex">
+  ![Metrics](/github-metrics.svg) 
+  ![Metrics](/metrics.plugin.stars.svg)
+</div>
 
 
 <!--
